@@ -1,0 +1,1 @@
+Está presente dentro da pasta backgrounds, em ~/.local/share/backgrounds
