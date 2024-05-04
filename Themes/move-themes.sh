@@ -1,6 +1,6 @@
 #!/bin/bash
 
-unzip Themes/themes.zip -d ~/.themes
-unzip Themes/pointer.zip -d ~/.icons
-unzip Themes/icons.zip -d ~/.local/share/icons
-unzip Themes/backgrounds.zip -d ~/.local/share/backgrounds
+unzip Themes/themes/themes.zip -d ~/.themes
+#unzip Themes/pointer/pointer.zip -d ~/.icons
+unzip Themes/icons/icons.zip -d ~/.icons
+unzip Themes/backgrounds/backgrounds.zip -d ~/.local/share/backgrounds
